@@ -1,0 +1,6 @@
+{
+  "name": "Cocina con lo que tienes",
+  "description": "Una mini app de ayuda rápida para cocinar con los ingredientes que tienes en casa de forma práctica y directa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
